@@ -9,3 +9,6 @@ main .project-card-icon ->
 
 .project-body -> 
     The yellow line is a 10px border on cards.
+
+Announcements ---->
+

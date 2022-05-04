@@ -163,7 +163,7 @@ main {
     background-color: #E2E8F0;
     display: grid;
     grid-template-columns: 3fr 1fr;
-    gap: 1rem;
+    gap: 1.5rem;
 }
 
 .projects {
@@ -210,9 +210,35 @@ main {
     padding-bottom: 6px;
 }
 
-.announcements {
-    background-color: white;
+/* announcements */
+.announcements-title {
+    font-weight: bold;
+    font-size: 1.6rem;
+    padding-bottom: 1rem;
 }
+
+.ann-card {
+    background-color: white;
+    padding: 1rem 2rem;
+    border-radius: 6px;
+
+}
+
+.ann-div {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.ann-line {
+    border-bottom: 2px solid #CED3DA;
+}
+
+.ann-title {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+/* Trending */
 
 .trending {
     grid-column: 2;
