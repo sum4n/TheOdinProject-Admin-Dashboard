@@ -100,3 +100,49 @@ main {
 }
 
 /* sidebar css */
+
+.sidebar {
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0px 20px;
+
+    display: grid;
+    grid-template-rows: 100px 350px auto;
+
+}
+
+.dashboard {
+    font-size: 1.5rem;
+    
+    display: flex;
+    align-items: center;
+    
+}
+
+.d-image {
+    margin-right: 10px;
+}
+
+.list1 {
+    margin-top: 40px;
+}
+
+.list2 {
+    margin-top: 40px;
+}
+
+ul > li {
+    list-style: none;
+    padding-bottom: 15px;
+
+    display: flex;
+    align-items: center;
+
+}
+
+ul > li > img {
+    height: 24px;
+    margin-right: 20px;
+    
+}
