@@ -11,4 +11,14 @@ main .project-card-icon ->
     The yellow line is a 10px border on cards.
 
 Announcements ---->
+    Needed to add class for the separators.
 
+Trending ---->
+    Grid row end auto to expand.
+    Flexbox to align pics with text.
+
+Sidebar ---->
+    Used both grid and flex.
+
+Header ---->
+    Margin button to add box-shadow.
